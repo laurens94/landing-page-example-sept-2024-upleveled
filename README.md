@@ -4,6 +4,14 @@ This repo is a reference for the lecture I gave for UpLeveled.
 
 During the limited 3 hours of this practical lecture we setup the project and cloned a few sections of the landingpage https://rive.app/ in React, utilizing CSS Modules and tackling some common CSS layout problems.
 
+## Original design
+
+![image](./screenshot-original.png)
+
+## Recreated end result
+
+![image](./screenshot.png)
+
 ## Run locally
 
 In the project directory, you can run:
