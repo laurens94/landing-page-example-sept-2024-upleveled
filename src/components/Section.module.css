@@ -1,0 +1,11 @@
+
+
+.section {
+  composes: wrapper from "../App.module.css";
+  padding: 2rem;
+}
+
+.largeSection {
+  padding: 4rem 2rem;
+  composes: section;
+}

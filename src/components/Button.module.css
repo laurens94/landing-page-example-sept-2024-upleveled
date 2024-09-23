@@ -1,0 +1,16 @@
+.button {
+  background: var(--color);
+  text-decoration: none;
+  padding: .5rem 1rem;
+  border-radius: var(--radius);
+  font-weight: 200;
+}
+
+.buttonPink {
+  composes: button;
+  background: linear-gradient(to right, #f25085, #da469e);
+}
+
+.buttonLarge {
+  composes: buttonPink;
+}
